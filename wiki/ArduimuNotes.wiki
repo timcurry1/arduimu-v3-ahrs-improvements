@@ -10,7 +10,7 @@ Add your content here.
 /*============================================================================================================
 =================================================== ARDUIMU V3 ===============================================
 ==============================================================================================================
-The ARDUIMU V3 consists of the ATMEGA328 processor connected to a tri-axis HMC5883L Magnetometer
+The *ARDUIMU V3* consists of the ATMEGA328 processor connected to a tri-axis HMC5883L Magnetometer
 and a tri-axis MPU6000 Acceleromter/Angular Gyro. Note that these two sensors have onchip processors
 and A/D converters which get the raw magnetometer, accelerometer and angular gyro data.  This differs
 significantly from the previous IMUs (V1, V2) which used the ATMEGA328 A/Ds to get these sensor data.  The goods news 
